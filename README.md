@@ -1,4 +1,2 @@
-# demoPullRequest
-Noms des différentes personnes à rajouter ici:
-Najoua Ghrieb
+najoua Ghrieb
 ...Fakhreddine Dhifallah
